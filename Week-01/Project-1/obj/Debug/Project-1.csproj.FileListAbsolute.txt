@@ -1,0 +1,10 @@
+E:\C_Shrapp\Week-01\Project-1\bin\Debug\Project-1.exe.config
+E:\C_Shrapp\Week-01\Project-1\bin\Debug\Project-1.exe
+E:\C_Shrapp\Week-01\Project-1\bin\Debug\Project-1.pdb
+E:\C_Shrapp\Week-01\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-01\Project-1\obj\Debug\Project_1.Form1.resources
+E:\C_Shrapp\Week-01\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+E:\C_Shrapp\Week-01\Project-1\obj\Debug\Project-1.csproj.GenerateResource.cache
+E:\C_Shrapp\Week-01\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-01\Project-1\obj\Debug\Project-1.exe
+E:\C_Shrapp\Week-01\Project-1\obj\Debug\Project-1.pdb
