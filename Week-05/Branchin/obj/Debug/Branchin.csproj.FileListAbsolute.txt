@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-05\Branchin\bin\Debug\Branchin.exe.config
+E:\C_Shrapp\Week-05\Branchin\bin\Debug\Branchin.exe
+E:\C_Shrapp\Week-05\Branchin\bin\Debug\Branchin.pdb
+E:\C_Shrapp\Week-05\Branchin\obj\Debug\Branchin.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-05\Branchin\obj\Debug\Branchin.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-05\Branchin\obj\Debug\Branchin.exe
+E:\C_Shrapp\Week-05\Branchin\obj\Debug\Branchin.pdb

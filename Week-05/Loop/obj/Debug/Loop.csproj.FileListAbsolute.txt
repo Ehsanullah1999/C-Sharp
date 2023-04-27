@@ -1,0 +1,6 @@
+E:\C_Shrapp\Week-05\Loop\bin\Debug\Loop.exe.config
+E:\C_Shrapp\Week-05\Loop\bin\Debug\Loop.exe
+E:\C_Shrapp\Week-05\Loop\bin\Debug\Loop.pdb
+E:\C_Shrapp\Week-05\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-05\Loop\obj\Debug\Loop.exe
+E:\C_Shrapp\Week-05\Loop\obj\Debug\Loop.pdb
