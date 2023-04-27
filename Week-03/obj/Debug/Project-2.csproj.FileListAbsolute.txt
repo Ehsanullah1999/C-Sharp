@@ -1,0 +1,14 @@
+E:\C_Shrapp\Project-2\bin\Debug\Project-2.exe.config
+E:\C_Shrapp\Project-2\bin\Debug\Project-2.exe
+E:\C_Shrapp\Project-2\bin\Debug\Project-2.pdb
+E:\C_Shrapp\Project-2\obj\Debug\Project-2.csprojAssemblyReference.cache
+E:\C_Shrapp\Project-2\obj\Debug\Project-2.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Project-2\obj\Debug\Project-2.exe
+E:\C_Shrapp\Project-2\obj\Debug\Project-2.pdb
+E:\C_Shrapp\Week-03\bin\Debug\Project-2.exe.config
+E:\C_Shrapp\Week-03\bin\Debug\Project-2.exe
+E:\C_Shrapp\Week-03\bin\Debug\Project-2.pdb
+E:\C_Shrapp\Week-03\obj\Debug\Project-2.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-03\obj\Debug\Project-2.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-03\obj\Debug\Project-2.exe
+E:\C_Shrapp\Week-03\obj\Debug\Project-2.pdb
