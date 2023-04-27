@@ -1,0 +1,14 @@
+E:\C_Shrapp\Week-056\Array\bin\Debug\Array.exe.config
+E:\C_Shrapp\Week-056\Array\bin\Debug\Array.exe
+E:\C_Shrapp\Week-056\Array\bin\Debug\Array.pdb
+E:\C_Shrapp\Week-056\Array\obj\Debug\Array.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-056\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-056\Array\obj\Debug\Array.exe
+E:\C_Shrapp\Week-056\Array\obj\Debug\Array.pdb
+E:\C_Shrapp\Week-06\Array\bin\Debug\Array.exe.config
+E:\C_Shrapp\Week-06\Array\bin\Debug\Array.exe
+E:\C_Shrapp\Week-06\Array\bin\Debug\Array.pdb
+E:\C_Shrapp\Week-06\Array\obj\Debug\Array.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-06\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-06\Array\obj\Debug\Array.exe
+E:\C_Shrapp\Week-06\Array\obj\Debug\Array.pdb

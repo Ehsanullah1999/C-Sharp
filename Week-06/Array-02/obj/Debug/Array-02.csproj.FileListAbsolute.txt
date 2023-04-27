@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-056\Array-02\bin\Debug\Array-02.exe.config
+E:\C_Shrapp\Week-056\Array-02\bin\Debug\Array-02.exe
+E:\C_Shrapp\Week-056\Array-02\bin\Debug\Array-02.pdb
+E:\C_Shrapp\Week-056\Array-02\obj\Debug\Array-02.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-056\Array-02\obj\Debug\Array-02.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-056\Array-02\obj\Debug\Array-02.exe
+E:\C_Shrapp\Week-056\Array-02\obj\Debug\Array-02.pdb
