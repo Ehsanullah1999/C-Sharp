@@ -1,0 +1,14 @@
+C:\Users\Ehsanullah Memar\source\repos\Week-08\Funcation_1\bin\Debug\Funcation_1.exe.config
+C:\Users\Ehsanullah Memar\source\repos\Week-08\Funcation_1\bin\Debug\Funcation_1.exe
+C:\Users\Ehsanullah Memar\source\repos\Week-08\Funcation_1\bin\Debug\Funcation_1.pdb
+C:\Users\Ehsanullah Memar\source\repos\Week-08\Funcation_1\obj\Debug\Funcation_1.csprojAssemblyReference.cache
+C:\Users\Ehsanullah Memar\source\repos\Week-08\Funcation_1\obj\Debug\Funcation_1.csproj.CoreCompileInputs.cache
+C:\Users\Ehsanullah Memar\source\repos\Week-08\Funcation_1\obj\Debug\Funcation_1.exe
+C:\Users\Ehsanullah Memar\source\repos\Week-08\Funcation_1\obj\Debug\Funcation_1.pdb
+E:\C_Shrapp\Week-08\Funcation_1\bin\Debug\Funcation_1.exe.config
+E:\C_Shrapp\Week-08\Funcation_1\bin\Debug\Funcation_1.exe
+E:\C_Shrapp\Week-08\Funcation_1\bin\Debug\Funcation_1.pdb
+E:\C_Shrapp\Week-08\Funcation_1\obj\Debug\Funcation_1.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-08\Funcation_1\obj\Debug\Funcation_1.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-08\Funcation_1\obj\Debug\Funcation_1.exe
+E:\C_Shrapp\Week-08\Funcation_1\obj\Debug\Funcation_1.pdb
