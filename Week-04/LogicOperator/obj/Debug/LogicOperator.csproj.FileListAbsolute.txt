@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-04\LogicOperator\bin\Debug\LogicOperator.exe.config
+E:\C_Shrapp\Week-04\LogicOperator\bin\Debug\LogicOperator.exe
+E:\C_Shrapp\Week-04\LogicOperator\bin\Debug\LogicOperator.pdb
+E:\C_Shrapp\Week-04\LogicOperator\obj\Debug\LogicOperator.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-04\LogicOperator\obj\Debug\LogicOperator.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-04\LogicOperator\obj\Debug\LogicOperator.exe
+E:\C_Shrapp\Week-04\LogicOperator\obj\Debug\LogicOperator.pdb

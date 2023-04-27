@@ -1,0 +1,6 @@
+E:\C_Shrapp\Week-04\Constants_and_Litrals\bin\Debug\Constants_and_Litrals.exe.config
+E:\C_Shrapp\Week-04\Constants_and_Litrals\bin\Debug\Constants_and_Litrals.exe
+E:\C_Shrapp\Week-04\Constants_and_Litrals\bin\Debug\Constants_and_Litrals.pdb
+E:\C_Shrapp\Week-04\Constants_and_Litrals\obj\Debug\Constants_and_Litrals.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-04\Constants_and_Litrals\obj\Debug\Constants_and_Litrals.exe
+E:\C_Shrapp\Week-04\Constants_and_Litrals\obj\Debug\Constants_and_Litrals.pdb

@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-04\NameSpace\bin\Debug\NameSpace.exe.config
+E:\C_Shrapp\Week-04\NameSpace\bin\Debug\NameSpace.exe
+E:\C_Shrapp\Week-04\NameSpace\bin\Debug\NameSpace.pdb
+E:\C_Shrapp\Week-04\NameSpace\obj\Debug\NameSpace1.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-04\NameSpace\obj\Debug\NameSpace.exe
+E:\C_Shrapp\Week-04\NameSpace\obj\Debug\NameSpace.pdb
+E:\C_Shrapp\Week-04\NameSpace\obj\Debug\NameSpace1.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-04\HomeWork1\bin\Debug\HomeWork1.exe.config
+E:\C_Shrapp\Week-04\HomeWork1\bin\Debug\HomeWork1.exe
+E:\C_Shrapp\Week-04\HomeWork1\bin\Debug\HomeWork1.pdb
+E:\C_Shrapp\Week-04\HomeWork1\obj\Debug\HomeWork1.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-04\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-04\HomeWork1\obj\Debug\HomeWork1.exe
+E:\C_Shrapp\Week-04\HomeWork1\obj\Debug\HomeWork1.pdb

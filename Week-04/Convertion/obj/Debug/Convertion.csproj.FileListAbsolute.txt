@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-04\Convertion\bin\Debug\Convertion.exe.config
+E:\C_Shrapp\Week-04\Convertion\bin\Debug\Convertion.exe
+E:\C_Shrapp\Week-04\Convertion\bin\Debug\Convertion.pdb
+E:\C_Shrapp\Week-04\Convertion\obj\Debug\Convertion.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-04\Convertion\obj\Debug\Convertion.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-04\Convertion\obj\Debug\Convertion.exe
+E:\C_Shrapp\Week-04\Convertion\obj\Debug\Convertion.pdb

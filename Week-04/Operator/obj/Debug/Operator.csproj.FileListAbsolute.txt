@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-04\Operator\bin\Debug\Operator.exe.config
+E:\C_Shrapp\Week-04\Operator\bin\Debug\Operator.exe
+E:\C_Shrapp\Week-04\Operator\bin\Debug\Operator.pdb
+E:\C_Shrapp\Week-04\Operator\obj\Debug\Operator.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-04\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-04\Operator\obj\Debug\Operator.exe
+E:\C_Shrapp\Week-04\Operator\obj\Debug\Operator.pdb

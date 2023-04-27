@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-04\Cricle\bin\Debug\Cricle.exe.config
+E:\C_Shrapp\Week-04\Cricle\bin\Debug\Cricle.exe
+E:\C_Shrapp\Week-04\Cricle\bin\Debug\Cricle.pdb
+E:\C_Shrapp\Week-04\Cricle\obj\Debug\Cricle.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-04\Cricle\obj\Debug\Cricle.exe
+E:\C_Shrapp\Week-04\Cricle\obj\Debug\Cricle.pdb
+E:\C_Shrapp\Week-04\Cricle\obj\Debug\Cricle.csprojAssemblyReference.cache
