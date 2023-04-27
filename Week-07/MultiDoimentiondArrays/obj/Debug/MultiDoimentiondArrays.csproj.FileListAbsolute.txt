@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-07\MultiDoimentiondArrays\bin\Debug\MultiDoimentiondArrays.exe.config
+E:\C_Shrapp\Week-07\MultiDoimentiondArrays\bin\Debug\MultiDoimentiondArrays.exe
+E:\C_Shrapp\Week-07\MultiDoimentiondArrays\bin\Debug\MultiDoimentiondArrays.pdb
+E:\C_Shrapp\Week-07\MultiDoimentiondArrays\obj\Debug\MultiDoimentiondArrays.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-07\MultiDoimentiondArrays\obj\Debug\MultiDoimentiondArrays.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-07\MultiDoimentiondArrays\obj\Debug\MultiDoimentiondArrays.exe
+E:\C_Shrapp\Week-07\MultiDoimentiondArrays\obj\Debug\MultiDoimentiondArrays.pdb

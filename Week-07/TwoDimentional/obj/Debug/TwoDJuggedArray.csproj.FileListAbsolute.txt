@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-07\TwoDimentional\bin\Debug\TwoDimentional.exe.config
+E:\C_Shrapp\Week-07\TwoDimentional\bin\Debug\TwoDimentional.exe
+E:\C_Shrapp\Week-07\TwoDimentional\bin\Debug\TwoDimentional.pdb
+E:\C_Shrapp\Week-07\TwoDimentional\obj\Debug\TwoDJuggedArray.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-07\TwoDimentional\obj\Debug\TwoDimentional.exe
+E:\C_Shrapp\Week-07\TwoDimentional\obj\Debug\TwoDimentional.pdb
+E:\C_Shrapp\Week-07\TwoDimentional\obj\Debug\TwoDJuggedArray.csprojAssemblyReference.cache
