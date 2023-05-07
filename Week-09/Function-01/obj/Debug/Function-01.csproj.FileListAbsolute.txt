@@ -1,0 +1,7 @@
+E:\C_Shrapp\Week-09\Function-01\bin\Debug\Function-01.exe.config
+E:\C_Shrapp\Week-09\Function-01\bin\Debug\Function-01.exe
+E:\C_Shrapp\Week-09\Function-01\bin\Debug\Function-01.pdb
+E:\C_Shrapp\Week-09\Function-01\obj\Debug\Function-01.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-09\Function-01\obj\Debug\Function-01.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-09\Function-01\obj\Debug\Function-01.exe
+E:\C_Shrapp\Week-09\Function-01\obj\Debug\Function-01.pdb
