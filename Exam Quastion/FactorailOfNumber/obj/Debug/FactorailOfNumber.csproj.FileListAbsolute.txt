@@ -1,0 +1,6 @@
+E:\C_Shrapp\Exam Quastion\FactorailOfNumber\bin\Debug\FactorailOfNumber.exe.config
+E:\C_Shrapp\Exam Quastion\FactorailOfNumber\bin\Debug\FactorailOfNumber.exe
+E:\C_Shrapp\Exam Quastion\FactorailOfNumber\bin\Debug\FactorailOfNumber.pdb
+E:\C_Shrapp\Exam Quastion\FactorailOfNumber\obj\Debug\FactorailOfNumber.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Exam Quastion\FactorailOfNumber\obj\Debug\FactorailOfNumber.exe
+E:\C_Shrapp\Exam Quastion\FactorailOfNumber\obj\Debug\FactorailOfNumber.pdb

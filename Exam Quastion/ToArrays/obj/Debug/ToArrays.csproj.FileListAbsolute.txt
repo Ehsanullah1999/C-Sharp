@@ -1,0 +1,7 @@
+E:\C_Shrapp\Exam Quastion\ToArrays\bin\Debug\ToArrays.exe.config
+E:\C_Shrapp\Exam Quastion\ToArrays\bin\Debug\ToArrays.exe
+E:\C_Shrapp\Exam Quastion\ToArrays\bin\Debug\ToArrays.pdb
+E:\C_Shrapp\Exam Quastion\ToArrays\obj\Debug\ToArrays.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Exam Quastion\ToArrays\obj\Debug\ToArrays.exe
+E:\C_Shrapp\Exam Quastion\ToArrays\obj\Debug\ToArrays.pdb
+E:\C_Shrapp\Exam Quastion\ToArrays\obj\Debug\ToArrays.csprojAssemblyReference.cache

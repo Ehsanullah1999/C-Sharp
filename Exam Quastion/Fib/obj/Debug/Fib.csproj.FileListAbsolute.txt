@@ -1,0 +1,6 @@
+E:\C_Shrapp\Exam Quastion\Fib\bin\Debug\Fib.exe.config
+E:\C_Shrapp\Exam Quastion\Fib\bin\Debug\Fib.exe
+E:\C_Shrapp\Exam Quastion\Fib\bin\Debug\Fib.pdb
+E:\C_Shrapp\Exam Quastion\Fib\obj\Debug\Fib.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Exam Quastion\Fib\obj\Debug\Fib.exe
+E:\C_Shrapp\Exam Quastion\Fib\obj\Debug\Fib.pdb

@@ -1,0 +1,7 @@
+E:\C_Shrapp\Exam Quastion\MaximumNumber\bin\Debug\MaximumNumber.exe.config
+E:\C_Shrapp\Exam Quastion\MaximumNumber\bin\Debug\MaximumNumber.exe
+E:\C_Shrapp\Exam Quastion\MaximumNumber\bin\Debug\MaximumNumber.pdb
+E:\C_Shrapp\Exam Quastion\MaximumNumber\obj\Debug\MaximumNumber.csprojAssemblyReference.cache
+E:\C_Shrapp\Exam Quastion\MaximumNumber\obj\Debug\MaximumNumber.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Exam Quastion\MaximumNumber\obj\Debug\MaximumNumber.exe
+E:\C_Shrapp\Exam Quastion\MaximumNumber\obj\Debug\MaximumNumber.pdb
